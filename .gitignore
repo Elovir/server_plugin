@@ -1,0 +1,10 @@
+*~
+.DS_Store
+*.jpg
+*.png
+data/
+__pycache__/
+*.pyc
+videos/
+img/
+env/
